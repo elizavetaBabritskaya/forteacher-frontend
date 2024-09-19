@@ -13,11 +13,15 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
+    "axios": "^1.7.5",
     "pinia": "^2.2.2",
     "quasar": "^2.16.0",
     "vue": "^3.4.29",
     "vue-cli-plugin-quasar": "^5.1.2",
-    "vue-router": "^4.3.3"
+    "vue-google-oauth2": "^1.5.10",
+    "vue-google-signin-button": "^1.0.4",
+    "vue-router": "^4.3.3",
+    "vue3-google-login": "^2.0.33"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.8.0",
